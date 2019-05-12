@@ -103,10 +103,10 @@ analytics:
 # Site Author
 author:
   name             : "Shamel Fahmi"
-  avatar           : /assets/images/Orsolino_Romeo_IHMC_cropped.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/my_pic.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Genova, Italy"
-  github           : "orsoromeo"
+  github           : "shamelfahmi"
   linkedin         : "romeo-orsolino-0097b78a/"
   YouTube          : "https://www.youtube.com/channel/UC45i3BaTxTpDWPLY2UhpolA"
 
