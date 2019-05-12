@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Shamel Fahmi"
-  avatar           : /assets/images/my_pic.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/my_pic.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Genova, Italy"
   github           : "shamelfahmi"
