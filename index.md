@@ -6,6 +6,8 @@ header:
 ---
 
 <h1> Featured News </h1>
+> **\[20.05.\] I'm looking for Students!**
+
 > **\[01.06.2019\] I'm going to RSS**
 
 I will be attending RSS 2019 in Freiburg, Germany. Hope to meet you all there. 
