@@ -5,14 +5,11 @@ header:
     image: "/assets/images/home-page.jpg"
 ---
 
-<h1> Featured News </h1>
-> **\[20.05.\] I'm looking for Students!**
+<h1> Featured News! </h1>
+## 23 May 2019
+[HyQReal](https://dls.iit.it/robots1/hyqreal), our newest robot is out! We took it to the airport of Genova to demonstrate its strength by pulling a small passenger airplane (Piaggio P180 Avanti), 3300kg weight, 14.4m long, with a wingspan of 14m. 
 
-> **\[01.06.2019\] I'm going to RSS**
-
-I will be attending RSS 2019 in Freiburg, Germany. Hope to meet you all there. 
-
-> **\[12.05.2019\] STANCE: Locomotion Adaptation over Soft Terrain** 
-
-Excited to show our recent work on  locmototion over soft terrain.  For more information, go see my blog on STANCE :wink: !
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rINRnicv7_I?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+For more information, visit the [DLS](http://dls.iit.it ) lab! <br>
+You can come say Hi at ICRA'19
+or wait for us at [RSS'19](https://sites.google.com/view/num-opt-for-legged-locomotion/)!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pLsNs1ZS_TI?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

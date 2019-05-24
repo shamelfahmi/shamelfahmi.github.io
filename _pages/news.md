@@ -3,6 +3,19 @@ title: "News"
 permalink: /news/
 header:
 ---
-> STANCE is out
 
-> STANCE is featured on IEEE Spectrum
+
+- 01 Jun 2019 <br>
+  **I'm going to RSS** <br>
+  I will be attending RSS 2019 in Freiburg, Germany. Hope to meet you all there. 
+
+- 20 May 2019 <br>
+  **I'm looking for Students!**
+
+- 03 May 2019 <br>
+  [STANCE is featured on IEEE Spectrum](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-watch-this-robocop-make-a-traffic-stop)
+
+- 28 Apr 2019 <br>
+  **STANCE: Locomotion Adaptation over Soft Terrain** is our recent work on locomotion over soft terrain.<br>
+  For more information, go see my [blog]({% link _research/stance.md %}) on STANCE :wink: !
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/rINRnicv7_I?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -7,11 +7,9 @@ header:
 Please feel free to navigate through the site to find out more about me.
 
 
+## Me in a Nutshell
 
----
-# Me in a Nutshell
-
-I'm a doctoral researcher  at the [Dynamic Legged Systems](dls.iit.it) (DLS) lab. 
+I'm a doctoral researcher at the [Dynamic Legged Systems](dls.iit.it) (DLS) lab. 
 My main research is in Quadrupedal Locomotion Planning and Control.
 
 I received my M.Sc. in Systems and Control: Robotics and Mechatronics in September 2017 at the [University of Twente](https://www.utwente.nl/) (THE NETHERLANDS) in which I conducted my thesis at the [Robotics and Mechatronics](https://www.ram.ewi.utwente.nl/) (RaM) lab at the University of Twente.
@@ -23,7 +21,7 @@ During my bachelor studies I also worked at the [Insisute of Automotive Engineer
 
 
 ---
-# FAQ
+## FAQ
 Pronouncing my name is supposed to be easy, at least according to my dad. 
 It's not a common name though (not even in Egypt), so here we go:
 

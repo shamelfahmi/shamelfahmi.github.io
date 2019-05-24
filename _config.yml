@@ -28,23 +28,36 @@ author:
   name   : "Shamel Fahmi"
   avatar : /assets/images/my_pic.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio    : "I'm just trying to make robots."
-  location: "Earth"
   links:
     - label: "DLS lab"
       icon: "fas fa-fw fa-link"
-      url: "https://dls.iit.it"
+      url: "https://dls.iit.it/people/shamel-fahmi"
+
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/shamelfahmi"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/shamelfahmi"
+
     - label: "Scholar"
       icon: ""
       url: "https://scholar.google.nl/citations?user=bvK2p6gAAAAJ&hl=en&authuser=2"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/"
+
+    - label: "linked-in"
+      icon: "fab fa-linkedin"
+      url: "www.linkedin.com/in/shamelfahmi"
+
+    - label: "research-gate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Shamel_Fahmi"
+
+    - label: "shamel.fahmi@iit.it"
+      icon: "far fa-envelope"
+      url: "shamel.fahmi@iit.it"
+
+
 
 
 
@@ -100,6 +113,27 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: false
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: false
 
 category_archive:
   type: liquid
@@ -107,3 +141,12 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+collections:
+  research:
+    output: true
+    permalink: /:collection/:path/
+  news:
+    output: true
+    permalink: /:collection/:path/
