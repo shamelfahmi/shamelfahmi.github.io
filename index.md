@@ -5,6 +5,15 @@ header:
     image: "/assets/images/home-page.jpg"
 ---
 
+ <div class="ftembed" 
+ style=" background-color: white;  text-align: center; border:10px solid #cc9933; border-radius: 10px;
+ width: 500px;" >
+   <script src="https://funtranslations.com/extensions/embed/v1/funtranslations.embed.js"></script>
+   <script>
+        FunTranslations.Embed.render({translator:  'hieroglyphics'  });
+   </script>
+  </div>
+
 <h1> Featured News! </h1>
 ## 23 May 2019
 [HyQReal](https://dls.iit.it/robots1/hyqreal), our newest robot is out! We took it to the airport of Genova to demonstrate its strength by pulling a small passenger airplane (Piaggio P180 Avanti), 3300kg weight, 14.4m long, with a wingspan of 14m. 
