@@ -1,0 +1,26 @@
+full header image layout
+
+layout: single
+author_profile: true
+header:
+    overlay_image: /assets/images/home-page.jpg
+    overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+    caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+
+
+
+
+My way of embedding Youtube videos
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pLsNs1ZS_TI?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+ <div class="ftembed" >
+   <script src="https://funtranslations.com/extensions/embed/v1/funtranslations.embed.js"
+   width="200" height="200"></script>
+   <script>
+        FunTranslations.Embed.render({translator:  'hieroglyphics'  });
+   </script>
+  </div>
+

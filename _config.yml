@@ -47,7 +47,7 @@ author:
 
     - label: "linked-in"
       icon: "fab fa-linkedin"
-      url: "www.linkedin.com/in/shamelfahmi"
+      url: "https://www.linkedin.com/in/shamelfahmi"
 
     - label: "research-gate"
       icon: "fab fa-researchgate"
@@ -55,7 +55,7 @@ author:
 
     - label: "shamel.fahmi@iit.it"
       icon: "far fa-envelope"
-      url: "shamel.fahmi@iit.it"
+      url: "mailto:shamel.fahmi@iit.it"
 
 
 

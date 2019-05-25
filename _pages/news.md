@@ -10,7 +10,10 @@ header:
   I will be attending RSS 2019 in Freiburg, Germany. Hope to meet you all there. 
 
 - 20 May 2019 <br>
-  **I'm looking for Students!**
+  **I'm looking for Students!** <br>
+  I am looking for master students (for an internship or thesis) to work with me
+  at the DLS lab on Whole Body Control for Legged Robots. 
+  For more information, visit this [link](https://iit-dlslab.github.io/internship-positions/soft_terrain_passivity.pdf) for my own topic or this [link](https://dls.iit.it/open-positions/bsc-msc-phd) for open positions at the DLS lab. 
 
 - 03 May 2019 <br>
   [STANCE is featured on IEEE Spectrum](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-watch-this-robocop-make-a-traffic-stop)
