@@ -1,19 +1,28 @@
 # main links
 main:
-   - title: "Home"
-     url: /
    - title: "About"
      url: /about/
-   - title: "News"
-     url: /news/
    - title: "Research"
-     url: /research/ # this url should be the same as the name of the .md file in _pages
-
+     url: /Research/
    - title: "Publications"
      url: /Publications/
-   - title: "Blog"
-     url: /blog/
-
-   - title: "4Fun"
+   - title: "CV"
      url: /CV/
-   
+
+
+
+
+
+
+
+
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  # - title: "Contact"
+  #   url: /Contact/
