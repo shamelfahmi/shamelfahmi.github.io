@@ -27,7 +27,7 @@ search: false
 author:
   name   : "Shamel Fahmi"
   avatar : /assets/images/my_pic.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio    : "I'm just trying to make robots."
+  bio    : "\"Mozart, Beethoven, and Chopin never died. They simply became their music.\" - Dr. Robert Ford"
   links:
     - label: "DLS lab"
       icon: "fas fa-fw fa-link"
@@ -73,17 +73,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
 # Plugins (previously gems:)
 plugins:
@@ -124,6 +113,7 @@ defaults:
       comments: true
       share: true
       related: false
+  # _news
   - scope:
       path: ""
       type: news
@@ -134,6 +124,19 @@ defaults:
       comments: true
       share: true
       related: false
+  # _blog
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: false
+   
+
 
 category_archive:
   type: liquid
@@ -148,5 +151,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   news:
+    output: true
+    permalink: /:collection/:path/
+  blog:
     output: true
     permalink: /:collection/:path/

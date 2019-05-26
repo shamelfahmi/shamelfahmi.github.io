@@ -11,5 +11,9 @@ main:
 
    - title: "Publications"
      url: /Publications/
-   - title: "CV"
+   - title: "Blog"
+     url: /blog/
+
+   - title: "4Fun"
      url: /CV/
+   
