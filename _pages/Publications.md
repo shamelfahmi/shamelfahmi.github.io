@@ -7,15 +7,35 @@ classes: wide
 mathjax: "true"
 ---
 
-## Journal Papers
+## Research Papers
+### 2019
 
->  M. Focchi, R. Orsolino, M. Camurri, V. Barasuol, C. Mastalli, D.G. Caldwell and C. Semini, [Heuristic Planning for Rough Terrain Locomotion in Presence of External Disturbances and Variable Perception Quality](https://arxiv.org/abs/1805.10238),
-: Springer Tracts on Advanced Robotics (STAR), 2019
+> [__STANCE: Locomotion Adaptation over Soft Terrain.__](https://arxiv.org/pdf/1904.12306.pdf) <br>
+S. Fahmi, M. Focchi, A. Radulescu, G. Fink, V. Barasuol and C. Semini <br>
+preprint, Arxiv, 2019
 
->  R. Orsolino, M. Focchi, C. Mastalli, H. Dai, D.G. Caldwell and C. Semini, [Application of Wrench-Based Feasibility Analysis to the Online Trajectory Optimization of Legged Robots](https://iit-dlslab.github.io/papers/orsolino18ral.pdf),
-: IEEE Robotics and Automation Letters (RA-L), 2018
+> [__Passive Whole-Body Control for Quadruped Robots: Experimental Validation Over Challenging Terrain.__](https://iit-dlslab.github.io/papers/fahmi19ral.pdf) <br>
+Shamel Fahmi, Carlos Mastalli, Michele Focchi and Claudio Semini <br>
+IEEE Robotics and Automation Letters (RA-L), 2019
 
-## Conference Papers
+### 2018
 
->  R. Orsolino, M. Focchi, D.G. Caldwell and C. Semini, [A Combined Limit Cycle - Zero Moment Point Based Approach for Omni-Directional Quadrupedal Bounding](https://iit-dlslab.github.io/papers/orsolino17clawar.pdf),
-: International Conference on Climbing and Walking Robots (CLAWAR), 2017
+> [__Inertial Properties in Haptic Devices: Non-Linear Inertia Shaping vs. Force Feedforward.__](https://www.sciencedirect.com/science/article/pii/S2405896318332270) <br>
+Shamel Fahmi and Thomas Hulin <br>
+IFAC Symposium on Robot Control (SYROCO), 2018
+
+> [__Respiratory Motion Estimation of the Liver with Abdominal Motion as a Surrogate.__](https://onlinelibrary.wiley.com/doi/pdf/10.1002/rcs.1940) <br>
+Shamel Fahmi, Frank FJ Simonis and Momen Abayazid <br>
+The International Journal of Medical Robotics and Computer Assisted Surgery, 2018
+
+
+## Dissertations
+> __Respiratory motion estimation of the liver with abdominal motion as a surrogate: a supervised learning approach.__ <br>
+Shamel Fahmi <br>
+Robotics and Mechatronics (RaM)Lab, University of Twente, 2017
+
+> __Model Predictive Control for Multi-objective Cooperative Adaptive Cruise Control System.__ <br>
+Shamel Fahmi <br>
+Institute of Automatic Control (IRT), RWTH Aachen University, 2014
+
+## Workshops

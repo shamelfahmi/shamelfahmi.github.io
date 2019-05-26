@@ -1,14 +1,13 @@
 ---
-layout: single
-classes: wide
+layout: archive
 ---
 
-<p>I am PostDoc in the <b>Dynamic Legged Systems lab (DLS)</b> (Advanced Robotics department) at <b>Istituto Italiano di Tecnologia (IIT)</b>. 
+{{ content }}
 
-<p>Please feel free to navigate through the site to find out more about me.</p>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-<a href="http://www.hitwebcounter.com" target="_blank">
-<img src="http://hitwebcounter.com/counter/counter.php?page=7034437&style=0025&nbdigits=6&type=page&initCount=0" title="install tracking codes" Alt="install tracking codes"   border="0" >
-</a>
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
 
-
+{% include paginator.html %}
