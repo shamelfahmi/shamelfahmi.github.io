@@ -1,4 +1,9 @@
 var store = [{
+        "title": "Initial Commit",
+        "excerpt":"This is an item in your portfolio.  It can be have images or nice text.  If you name the file .md, it will be parsed as markdown.  If you name the file .html, it will be parsed as HTML.  ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/blog/blog-1/",
+        "teaser":null},{
         "title": "**STANCE**: Locomotion Adaptation over Soft Terrain",
         "excerpt":"Overview Whole-body Control (WBC) has demonstrated remarkable result in dealing with multiple tasks while reasoning about the the robot’s dynamics, actuation limits and interaction with the environment. It emerged as an important framework in locomotion control for legged robots. However, most of WBC frameworks fail to generalize beyond rigid terrains....","categories": [],
         "tags": [],
