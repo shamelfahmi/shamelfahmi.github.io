@@ -22,6 +22,13 @@ github_username: shamelfahmi
 minimal_mistakes_skin: shamel
 search: false
 
+# Analytics
+analytics:
+  provider               : google-universal # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : UA-140883246-1
+    anonymize_ip         : # true, false (default)
+
 
 # Site Author
 author:
