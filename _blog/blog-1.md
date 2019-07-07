@@ -3,7 +3,8 @@ title: "Initial Commit"
 excerpt: "Why hosting a website and why should you visit it?"
 collection: blog
 date: 2019-05-27
-update: 2019-05-26
+firstdate: 2019-05-26
+update: y
 ---
 Yet another guy making yet another website, right?
 Why would someone visit this?
