@@ -64,6 +64,10 @@ author:
       icon: "far fa-envelope"
       url: "mailto:shamel.fahmi@iit.it"
 
+    - label: "Medium"
+      icon: "fab fa-medium-m"
+      url: "https://medium.com/@shamelfahmi/"
+
 
 
 

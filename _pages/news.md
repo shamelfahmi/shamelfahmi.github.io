@@ -18,7 +18,7 @@ header:
 
 - 08 July 2019 <br>
 I managed to compile my thoughts on RSS'19. Go read my blog and ask me lot's of questions
-either on my [website]({% link _blog/blog-2.md %}) or on [Medium](~) :wink: !
+either on my [website]({% link _blog/blog-2.md %}) or on [Medium](https://medium.com/@shamelfahmi/my-thoughts-on-rss19-feff8f8dfc57) :wink: !
 
 
 - 03 May 2019 <br>

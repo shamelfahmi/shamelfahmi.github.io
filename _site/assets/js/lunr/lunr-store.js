@@ -5,7 +5,7 @@ var store = [{
         "url": "https://shamelfahmi.com/blog/blog-1/",
         "teaser":null},{
         "title": "My Thoughts on RSS'19",
-        "excerpt":"Declaimer Just before getting into details, let me clarify some things. This blog does not reflect the view of the employer I am affiliated with. Most of the mentioned points are obviously subjective and are slightly biased towards my personal opinion. Moreover, I work in legged locomotion, so some of...","categories": [],
+        "excerpt":"Courtesy of RSS'19 Declaimer Just before getting into details, let me clarify some things. This blog does not reflect the view of the employer I am affiliated with. Most of the mentioned points are obviously subjective and are slightly biased towards my personal opinion. Moreover, I work in legged locomotion,...","categories": [],
         "tags": [],
         "url": "https://shamelfahmi.com/blog/blog-2/",
         "teaser":null},{

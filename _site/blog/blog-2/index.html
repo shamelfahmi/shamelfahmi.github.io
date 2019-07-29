@@ -29,7 +29,7 @@
 
 
 
-  <meta property="article:published_time" content="2019-07-09T11:04:41+02:00">
+  <meta property="article:published_time" content="2019-07-29T00:00:00+02:00">
 
 
 
@@ -200,6 +200,10 @@
             <li><a href="mailto:shamel.fahmi@iit.it" rel="nofollow noopener noreferrer"><i class="far fa-envelope" aria-hidden="true"></i> shamel.fahmi@iit.it</a></li>
           
         
+          
+            <li><a href="https://medium.com/@shamelfahmi/" rel="nofollow noopener noreferrer"><i class="fab fa-medium-m" aria-hidden="true"></i> Medium</a></li>
+          
+        
       
 
       
@@ -268,7 +272,7 @@
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="My Thoughts on RSS’19">
     <meta itemprop="description" content="Robotics: Science and Systems Conference, Freiburg 2019">
-    
+    <meta itemprop="datePublished" content="July 29, 2019">
     
 
     <div class="page__inner-wrap">
@@ -290,16 +294,31 @@
 
       <section class="page__content" itemprop="text">
         
-        <h1 id="declaimer">Declaimer</h1>
+        <!--figure>
+ <img src="http://placekitten.com/200/300" alt="Small picture of a kitten" />
+ <figcaption>
+ Small picture of a kitten, graciously shared by <a href="http://placekitten.com">placekitten.com</a>
+ </figcaption>
+</figure-->
+<center>
+    <img src="https://cdn-images-1.medium.com/max/800/1*TR4jA3c05a2NUzhCH9NbKQ.jpeg" alt="~" width="860" />
+ <figcaption>   
+ Courtesy of 
+ <a href="http://www.roboticsconference.org/program/media/">RSS'19</a>
+</figcaption>
+</center>
+
+<h2 id="declaimer">Declaimer</h2>
+
 <p>Just before getting into details, let me clarify some things. This blog does not reflect the view of the employer I am affiliated with. Most of the mentioned points are obviously subjective and are slightly biased towards my personal opinion. Moreover, I work in legged locomotion, so some of the technical notes here will be towards optimization, robotics, learning and control theory (especially the workshops). Shot out to <a href="https://orsoromeo.github.io/">Romeo Orsolino</a> for helping me out in writing this review.</p>
 
-<hr />
-<h1 id="the-conference">The conference</h1>
-<p>For those of you who might not be familiar with <a href="http://www.roboticsconference.org/">RSS</a>, it is one of the top three conferences in robotics (alongside ICRA and IROS). RSS this year was in Freiburg, Germany during June 22-26th. RSS was for five days, two days for the workshops and three days for the main (single track) conference. I personally enjoyed the entire conference but I think the workshops were better. Follow till the end, I will detail more on the workshops I attended.</p>
+<h2 id="the-conference">The Conference</h2>
+
+<p>For those of you who might not be familiar with <a href="http://www.roboticsconference.org/">RSS</a>, it is one of the top three conferences in robotics (alongside ICRA and IROS). RSS this year was in Freiburg, Germany during June 22–26th. RSS was for five days, two days for the workshops and three days for the main (single track) conference. I personally enjoyed the entire conference but I think the workshops were better. Follow till the end, I will detail more on the workshops I attended.</p>
 
 <p>The conference had 272 paper submissions and 85 accepted papers. It had 5 spotlight talks per day (total of 15 spotlights). Each spotlight had roughly 5 presentations from the authors of the accepted papers followed by 10 minute Q&amp;As. The conference also had 4 keynote talks and 2 early career talks.</p>
 
-<p>As verbally mentioned by A. Bicchi, the received papers were 40% higher than last year. Yet, the conference managed to keep the acceptance rate around 30%. Other statistics that were shown in the closing presentation are attached below.</p>
+<p>As verbally mentioned by A. Bicchi, the received papers were 40% more than last year. Yet, the conference managed to keep the acceptance rate around 30%. Other statistics that were shown in the closing presentation are attached below.</p>
 
 <center>
 <img width="560" src="/assets/images/1.jpg" alt="Markdown Monster icon" />
@@ -311,33 +330,45 @@
 <p><br /></p>
 <center>
 <img width="560" src="/assets/images/3.jpg" alt="Markdown Monster icon" />
-</center>
-
-<center>
+<figcaption> 
 Slides from A. Bicchi during the closing presentation. 
+</figcaption> 
 </center>
 
-<p><br />
-Apart from the technical details, I really enjoyed all of the presentations. They were exceptionally smooth with a great transition between speakers. I just hoped that speakers would have had a bit more time in presenting their work. Maybe not all of them, but a selection of presenters that can have longer presentations. Also, the “catch box” mic! Amazing idea.</p>
+<p>Apart from the technical details, I really enjoyed all of the presentations. They were exceptionally smooth with a great transition between speakers. I just hoped that speakers would have had a bit more time in presenting their work. Maybe not all of them, but a selection of presenters that can have longer presentations. Also, the “catch box” mic! Amazing idea.</p>
 
-<p>The quality of the papers, was great as expected from RSS. The topics were diverse and were tackling multiple trending problems in Robotics.  There was also a noticeable amount of industry partners and collaborators.</p>
+<p>The quality of the papers was great, as expected from RSS. The topics were diverse and were tackling multiple trending problems in Robotics. There was also a noticeable amount of industry partners and collaborators.</p>
 
 <h2 id="diversity">Diversity</h2>
-<p>Just walking in the conference was joyful in terms of diversity. However, the gender ratio is still unbalanced. There were couple of initiatives/meet-ups that were advocating for women in robotics and LGBTQ+. For people who organize conferences, please learn and expand such such initiatives! Also for under-represented groups. Furthermore, I also over heard people talking about child-care. Although was not mentioned by the organizers as far as I know, but I did see some paid attention towards that. Again, please learn and expand such initiatives! Lastly, I really hoped the organizers would have gathers a statistic about gender ratio, ethnicity ratio, etc.</p>
+
+<p>Just walking in the conference was joyful in terms of diversity. However, the gender ratio is still unbalanced. There were couple of initiatives/meet-ups that were advocating for women in robotics and LGBTQ+. For those who organize conferences, please learn and expand such initiatives! Also for under-represented groups. Furthermore, I also over heard people talking about child-care. Although this was not mentioned by the organizers as far as I know, I did see some paid attention to that. Again, please learn and expand such initiatives! Lastly, I really hoped the organizers would have gathered some statistics about gender ratio, ethnicity ratio, etc.</p>
 
 <h2 id="research-trends">Research Trends</h2>
-<p>As expected, “deep learning” was the most dominant keyword in the conference. However, very few papers caught my interest that were exceptional. I guess it is a trend in deep learning that most of the papers that are in conferences are already outperformed by couple of more papers on ArXiV.</p>
 
-<p>Fun fact, I was asking a famous reinforcement learning researcher what he thinks of the deep RL papers in the conference. He said he wasn’t a huge fan of the trend that is happening in deep RL in robotics. He specifically mentioned that most of the deep learning accepted papers this year might not be even read. The funny part is that while reading Chip Huyen’s <a href="https://huyenchip.com/2019/05/12/top-8-trends-from-iclr-2019.html">blog</a> on ICLR, a similar point was noted! Now I am curious if it was the same researcher :) .</p>
+<p>As expected, “deep learning” was the most dominant keyword in the conference. However, very few exceptional papers caught my interest. I guess it is a trend in deep learning that most of the papers that are in conferences are already outperformed by a couple of papers on ArXiV.</p>
 
-<p>Although as a keyword it wasn’t on the list, some researchers claimed that soft robotics is the current second biggest trend in robotics after deep learning.</p>
+<p>Fun fact, I was asking a famous reinforcement learning researcher what he thinks of the deep RL papers in the conference. He said he wasn’t a huge fan of the trend that is happening in deep RL in robotics. He specifically mentioned that most of the deep learning accepted papers this year might not be even read. The funny part is that while reading Chip Huyen’s <a href="https://huyenchip.com/2019/05/12/top-8-trends-from-iclr-2019.html">blog</a> on ICLR, a similar point was noted! Now I am curious if it was the same researcher :) .</p>
 
-<h2 id="my-favorite-presentations-and-papers">My Favorite Presentations and Papers</h2>
+<p>Despite not being listed as a trending keyword, some researchers claimed that soft robotics is the current second biggest trend in robotics after deep learning. In fact, the best paper award was in soft robotics.</p>
+
+<h2 id="paper-awards">Paper Awards</h2>
+
+<h3 id="best-paper-award">Best Paper Award</h3>
+<p>Ren, Ziyu et al., “A Magnetically-Actuated Untethered Jellyfish-Inspired Soft Milliswimmer”</p>
+
+<h3 id="best-student-paper">Best Student Paper</h3>
+<p>Wagener, Nolan et al.,“An Online Learning Approach to Model Predictive Control”.</p>
+
+<h3 id="best-systems-paper">Best Systems Paper</h3>
+<p>Zeng, Andy et al., “Learning to Throw Arbitrary Objects with Residual Physics”.</p>
+
+<h2 id="my-favorite-presentations-andpapers">My Favorite Presentations and Papers</h2>
+
 <p>All of the keynote presentations were interesting. I personally enjoyed A. Schoelling’s and M. Riedmiller’s the most. Some papers you might want to take a look at:</p>
+
 <ul>
   <li><a href="http://www.roboticsproceedings.org/rss15/p33.pdf">Wagener, Nolan, et al. “An Online Learning Approach to Model Predictive Control.”</a></li>
-  <li><a href="http://www.roboticsproceedings.org/rss15/p60.pdf">Bruder, Daniel, et al. “Modeling and Control of Soft Robots Using the Koopman Operator and Model Predictive Control.”
-</a></li>
+  <li><a href="http://www.roboticsproceedings.org/rss15/p60.pdf">Bruder, Daniel, et al. “Modeling and Control of Soft Robots Using the Koopman Operator and Model Predictive Control.”</a></li>
   <li><a href="http://www.roboticsproceedings.org/rss15/p39.pdf">Karkus, Peter, et al. “Differentiable Algorithm Networks for Composable Robot Learning.”</a></li>
   <li><a href="http://www.roboticsproceedings.org/rss15/p04.pdf">Zeng, Andy, et al. “TossingBot: Learning to Throw Arbitrary Objects with Residual Physics.”</a></li>
 </ul>
@@ -345,104 +376,83 @@ Apart from the technical details, I really enjoyed all of the presentations. The
 <p>You can still go see the the paper presentations and keynotes via this <a href="https://www.youtube.com/channel/UCeEbAUGjtBlzmqWO5u6VeGg">link</a>.</p>
 
 <h2 id="there-is-always-a-room-for-improvement">There is always a room for improvement</h2>
+
 <p>During the last three days of the conference, the wifi was awfully bad. Every single person that I knew was complaining about it. I seriously was using my mobile data to check my emails.</p>
 
-<p>Also, a notable amount of authors were not able to attend due to visa issues. From what I understood is the letters of invitation were late. I believe that researchers and conference organizers should pay more attention to the visa issues (given what happened in RSS’19 and NeurIPS’19)</p>
+<p>Also, a notable amount of authors were not able to attend due to visa issues. From what I understood, the letters of invitation were late. I believe that researchers and conference organizers should pay more attention to the visa issues (given what happened in RSS’19 and NeurIPS’18)</p>
 
-<p>It felt like most of the sessions were not “field based”. A session would be having a presentation about model based control in locomotion and in the same session another a presentation about semantics in manipulation. Apples and oranges.</p>
+<p>It felt like most of the sessions were not “field based”. A session would be having a presentation about model based control in locomotion and another presentation about semantics in manipulation. Apples and oranges.</p>
 
-<p>At this point, if you a Bosch AI employer, skip this part and go directly to the workshops. If not, proceed :)
-Okay, seriously, Bosch AI, I think it your presence as a sponsor a little bit pervasive. We really, REALLY, don’t want to know about anything between the first dish and the main one. We also REALLY don’t want to watch yet another presentation between dinner and dessert.</p>
+<p>At this point, if you are a Bosch AI employer, skip this part and go directly to the workshops. If not, proceed :) Okay, seriously, Bosch AI, I think that your presence as a sponsor a little bit pervasive. We really, REALLY, don’t want to know about anything between the first dish and the main one. We also REALLY don’t want to watch yet another presentation between dinner and dessert.</p>
 
 <hr />
-<h1 id="workshops">Workshops</h1>
-<p>There were around 20+ parallel workshops over the first two days. It was impossible to attend all of the workshops but some honorable mentions would be 
-<a href="https://sites.google.com/view/rss2019women/home">Women in Robotics</a>, 
-<a href="https://scalableroboticlearning.github.io/">Scalable Learning for Integrated Perception and Planning</a>
-and <a href="https://sites.google.com/view/rss19-learning-and-reasoning">Combining Learning and Reasoning - Towards Human-Level Robot Intelligence</a>.</p>
 
-<p>I tried to sneak into some workshops but I mainly attended the <a href="https://sites.google.com/view/num-opt-for-legged-locomotion/">Numerical Optimization for Online Multi-Contact Motion Planning and Control</a>
-and the <a href="http://sim2real.github.io/">Closing the Reality Gap in Sim2real Transfer for Robotic Manipulation</a> one.</p>
+<h2 id="workshops">Workshops</h2>
 
-<h2 id="1-numerical-optimization-for-online-multi-contact-motion-planning-and-control">1. <a href="https://sites.google.com/view/num-opt-for-legged-locomotion/">Numerical Optimization for Online Multi-Contact Motion Planning and Control</a></h2>
-<p>The workshop, from its name, was focusing on numerical optimization for legged robots.  The speakers were diverse ranging from numerical optimization, locomotion planning and control, legged robotics, polytopes, etc. The workshop had a detailed interactive discussion between the speakers and the attendees in the following points:</p>
+<p>There were around 20+ parallel workshops over the first two days. It was impossible to attend all of the workshops but some honorable mentions would be <a href="https://sites.google.com/view/rss2019women/home">Women in Robotics</a>, <a href="https://scalableroboticlearning.github.io/">Scalable Learning for Integrated Perception and Planning</a> and <a href="https://sites.google.com/view/rss19-learning-and-reasoning">Combining Learning and Reasoning — Towards Human-Level Robot Intelligence</a>.</p>
 
-<h3 id="contact-modeling">Contact Modeling</h3>
+<p>I tried to sneak into some workshops but I mainly attended the <a href="https://sites.google.com/view/num-opt-for-legged-locomotion/">Numerical Optimization for Online Multi-Contact Motion Planning and Control</a> and the <a href="http://sim2real.github.io/">Closing the Reality Gap in Sim2real Transfer for Robotic Manipulation</a> one.</p>
+
+<h2 id="numerical-optimization-for-online-multi-contact-motion-planning-andcontrol">Numerical Optimization for Online Multi-Contact Motion Planning and Control</h2>
+
+<p>The workshop, from its name, was focusing on numerical optimization for legged robots. The speakers were diverse ranging from numerical optimization, locomotion planning and control, legged robotics, polytopes, etc. The workshop had a detailed interactive discussion between the speakers and the attendees in the following points:</p>
+
+<h3 id="contact-modeling"><strong>Contact Modeling</strong></h3>
+
 <ul>
   <li>Is a trending topic (including contact modeling/scheduling).</li>
-  <li>People are diverging away from the rigid contact model. Either for computational reasons or for modeling of compliant environments.  Yet, “It’s complicated”, as Andrea del Prete said.</li>
+  <li>People are diverging away from the rigid contact model. Either for computational reasons or for modeling of compliant environments. Yet, “It’s complicated”, as Andrea del Prete said.</li>
   <li>Mujoco and its soft contact modeling seems to be taking over the community. Not just the simulator itself, but also the state of the art techniques used in trajectory optimization are competing.</li>
 </ul>
 
 <h3 id="whole-body-optimization">Whole Body Optimization</h3>
+
 <ul>
-  <li>
-    <p>Whole-body optimization (including whole-body control (WBC) and whole-body MPC) is getting more and more important. Initialization (with offline optimization or ML) of such nonlinear systems is a key point.</p>
-  </li>
-  <li>
-    <p>Researchers are moving far from the cascaded (pipelined) architecture of locomotion (the famous locomotion architecture from from the DARPA Robotics Challenge).</p>
-  </li>
-  <li>
-    <p>MPC and control theory experts (e.g. Moritz Diehl) are finally getting interested in state-dependent switching dynamic systems (such as legged robots).</p>
-  </li>
+  <li>Whole-body optimization (including whole-body control (WBC) and whole-body MPC) is getting more and more important. Initialization (with offline optimization or ML) of such nonlinear systems is a key point.</li>
+  <li>Researchers are moving far from the cascaded (pipelined) architecture of locomotion (the famous locomotion architecture from from the DARPA Robotics Challenge).</li>
+  <li>MPC and control theory experts (e.g. Moritz Diehl) are finally getting interested in state-dependent switching dynamic systems (such as legged robots).</li>
 </ul>
 
-<!--- Justin Carpentier stuff-->
-
 <h3 id="deep-learning">(Deep) Learning</h3>
+
 <p>In the workshop, researchers were not happy with end-to-end learning. They agree that indeed RL is an essential tool in locomotion. But not to tackle locomotion as a single problem (end-to-end). As a personal opinion here, I believe there is a lot of challenges to solve in locomotion and surely deep learning (deep RL included) has a lot of potential to solve these challenges efficiently. Yet, I believe that researchers working on deep RL in locomotion must understand that they should let go of simulation papers and start tackling real world problems. This I believe would be rather more challenging in case of end-to-end learning.</p>
 
-<h2 id="2-closing-the-reality-gap-in-sim2real-transfer-for-robotic-manipulation">2. <a href="http://sim2real.github.io/">Closing the Reality Gap in Sim2real Transfer for Robotic Manipulation</a></h2>
-<p>The workshop was focusing on Sim2Real transfer approaches in robotics (both manipulation and locomotion). I personally find it essential for researchers working in robotics learning to think critically in bridging the gap from simulation to the real world. Being recently interested in robotics learning, and coming from a robotics background, I think there are a lot of open problems that could be solved using learning. 
-However, most of the of deep learning approaches (especially in legged locomotion) rely heavily on simulation (that are not even perfected yet). And in that perspective, sim2real becomes essential.</p>
+<h2 id="closing-the-reality-gap-in-sim2real-transfer-for-robotic-manipulation">Closing the Reality Gap in Sim2real Transfer for Robotic Manipulation</h2>
 
-<p>I enjoyed most of the talks especially the ones from Erwin Coumans and Jean-Baptiste Mouret. Emo Todorov was shinning (as usual). The workshop featured  a super cool discussion by the speakers. The discussion was starring Emo Todorov who was positively criticizing the way research in being deal with. Below are some notes I found interesting to share:</p>
+<p>The workshop was focusing on Sim2Real transfer approaches in robotics (both manipulation and locomotion). I personally find it essential for researchers working in robotics learning to think critically in bridging the gap from simulation to the real world. Being recently interested in robotics learning, and coming from a robotics background, I think there are a lot of open problems that could be solved using learning. However, most of the of deep learning approaches (especially in legged locomotion) rely heavily on simulation (that are not even perfected yet). And in that perspective, sim2real becomes essential.</p>
+
+<p>I enjoyed most of the talks especially the ones from Erwin Coumans and Jean-Baptiste Mouret. Emo Todorov was shining (as usual). The workshop featured a super cool discussion by the speakers. The discussion was starring Emo Todorov who was positively criticizing the way research is being deal with. Below are some notes I found interesting to share:</p>
 
 <h3 id="emo-todorov">Emo Todorov</h3>
+
 <ul>
   <li>Emo verbally mentioned that he is less in favor of model free RL. Todorov clarified by saying that stochasticity is not essential, the world (and controls) is rather deterministic. I remember that he raised a similar argument in CoRL’18 saying that “the robot only gets shaky when you plug in a model free RL to it”.</li>
   <li>Emo also was in favor of working on something like feedback linearizion. In a sense that we should make a controller that makes the robot behave like in simulation rather than perfecting a simulator.</li>
 </ul>
 
 <h3 id="learning-locomotion">Learning Locomotion</h3>
-<p>Although the workshop was mainly about sim2real for manipulation. There were two main talks given by 
-<a href="https://sim2real.github.io/assets/slides/mouret_rss_reality_gap-light.pdf">Jean-Baptiste Mouret</a> and <a href="https://drive.google.com/file/d/1cnYzhKEdjWK88G6WybAQgk6SyAHAGN0O/view">Erwin Coumans</a> on sim2real for locomotion.</p>
 
-<p>Jean’s presentation was not mainly about sim2real but about online adaptation strategies for learning locomotion.
-Jean mentioned in the presentation the importance of learning in locomotion.
-He mentioned that one of the main challenges in locomotion is the ability
-of the robot to recover and adapt its motion after failure. 
-He mentioned some application if the robot falls or loses a limb. 
-He also briefly described his current work on
-online adaptation in case of damage
-and also, learning the unmodeled non-linear dynamics of the legged robot.</p>
+<p>Although the workshop was mainly about sim2real for manipulation. There were two main talks given by <a href="https://sim2real.github.io/assets/slides/mouret_rss_reality_gap-light.pdf">Jean-Baptiste Mouret</a> and <a href="https://drive.google.com/file/d/1cnYzhKEdjWK88G6WybAQgk6SyAHAGN0O/view">Erwin Coumans</a> on sim2real for locomotion.</p>
+
+<p>Jean’s presentation was not mainly about sim2real but about online adaptation strategies for learning locomotion. Jean mentioned in the presentation the importance of learning in locomotion. He mentioned that one of the main challenges in locomotion is the ability of the robot to recover and adapt its motion after failure. He mentioned some application if the robot falls or loses a limb. He also briefly described his current work on online adaptation in case of damage and also, learning the unmodeled non-linear dynamics of the legged robot.</p>
 
 <p>While briefly talking with Jean, he agrees that we shouldn’t be building learning strategies from scratch. We should heavily learn from the current state of the art in optimization techniques and exploit the experience of the experts in locomotion.</p>
 
-<p>Erwin’s presentation was rather general. He mainly focused on the 
-current research of his lab. Most importantly, he mentioned multiple
-engineering topics that his lab is working on. 
-For example, he mentioned the robot’s that they are using. 
-Also, their software framework which seems modular and intuitive.</p>
+<p>Erwin’s presentation was rather general. He mainly focused on the current research of his lab. Most importantly, he mentioned multiple engineering topics that his lab is working on. For example, he mentioned the robot’s that they are using. Also, their software framework which seems modular and intuitive.</p>
 
-<p>I personally like the fact that Erwin is trying to find some method in the madness. 
-In particular, the fact that his lab is working heavily on engineering, system identification and robotics research rather than just deep learning/RL in a perfectly simulated environment (that unfortunately most people are doing nowadays). 
-I can see that the lab is working also in implementing classical locomotion 
-techniques for comparison and benchmarking. 
-For example, Erwin showed in the presentation that the lab also implemented
-classical locomotion approaches such as hybrid zero dynamics and Raibert heuristics.
-However, I did not see any comparison in Erwin’s (and co-authors) papers against
-these techniques (especially their last work on <a href="https://arxiv.org/pdf/1812.11103.pdf">Learning to Walk via Deep RL</a> that did not even compare against the previous work of the authors).</p>
+<p>I personally like the fact that Erwin is trying to find some method in the madness. In particular, the fact that his lab is working heavily on engineering, system identification and robotics research rather than just deep learning/RL in a perfectly simulated environment (that unfortunately most people are doing nowadays). I can see that the lab is working also in implementing classical locomotion techniques for comparison and benchmarking. For example, Erwin showed in the presentation that the lab also implemented classical locomotion approaches such as hybrid zero dynamics and Raibert heuristics. However, I did not see any comparison in Erwin’s (and co-authors) papers against these techniques (especially their last work on <a href="https://arxiv.org/pdf/1812.11103.pdf">Learning to Walk via Deep RL</a> that did not even compare against the previous work of the authors).</p>
 
 <p>During my discussions with Erwin and Jean, I really respected their commitment in contributed to the open source as well as being active on social media and open for discussions. Shot out to these guys!</p>
 
-<p>Just as a side note, it would have been great if the workshop was recorded. I believe it is essential now a days to give access to such workshops. Given that the number of people attending the workshops/conferences are limited.</p>
+<p>Just as a side note, it would have been great if the workshop was recorded. I believe it is essential nowadays to give access to such workshops. Given that the number of people attending the workshops/conferences is limited.</p>
 
 <hr />
-<h1 id="final-thoughts">Final Thoughts</h1>
-<p>RSS’19 was amazing as usual. The workshops and papers were diverse and high quality. 
-The community is getting more and more diverse in terms of research ethnicity/gender but also in terms of research fields. However, there is still always a room for improvement. 
-I will keep updating this blog. I am totally open for discussions or suggestions to improve this blog.</p>
+
+<h2 id="final-thoughts">Final Thoughts</h2>
+
+<p>RSS’19 was amazing as usual. The workshops and papers were diverse and high quality. The community is getting more and more diverse in terms of research ethnicity/gender but also in terms of research fields. However, there is still always a room for improvement. I will keep updating this blog. I am totally open for discussions or suggestions to improve this blog.</p>
+
+<hr />
 
         
       </section>
@@ -452,6 +462,8 @@ I will keep updating this blog. I am totally open for discussions or suggestions
         
 
 
+        
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2019-07-29T00:00:00+02:00">July 29, 2019</time></p>
         
       </footer>
 
