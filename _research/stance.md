@@ -35,3 +35,17 @@ S. Fahmi, M. Focchi, A. Radulescu, G. Fink, V. Barasuol, and C. Semini, "[__STAN
 ```
 ## Media:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rINRnicv7_I?autoplay=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<!--
+How can quadrupeds walk over soft terrain?
+We present STANCE which stands for Soft Terrain Adaptation and Compliance Estimation. 
+STANCE is an online soft terrain adaptation algorithm that can adapt to any type of terrain compliance (stiff or soft). 
+With STANCE, HyQ can adapt its locomotion strategy and walk over multiple terrains with different compliance without pre-tuning.
+
+STANCE is now accepted at the IEEE Transactions on Robotics. 
+- Updated preprint: https://lnkfi.re/STANCE_paper
+- Blog: https://shamelfahmi.com/research/stance/
+- The prequel of this work can be found in: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8678400
+- For more information, visit the DLS lab website: https://dls.iit.it
+-->

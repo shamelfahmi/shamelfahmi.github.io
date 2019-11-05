@@ -10,9 +10,9 @@ mathjax: "true"
 ## Research Papers
 ### 2019
 
-> [__STANCE: Locomotion Adaptation over Soft Terrain.__](https://iit-dlslab.github.io/papers/fahmi19tro.pdf) <br>
+> [__STANCE: Locomotion Adaptation over Soft Terrain__](https://iit-dlslab.github.io/papers/fahmi19tro.pdf) <br>
 S. Fahmi, M. Focchi, A. Radulescu, G. Fink, V. Barasuol and C. Semini <br>
-preprint, Arxiv, 2019
+IEEE Transactions on Robotics (T-RO), Oct. 2019.
 
 > [__Passive Whole-Body Control for Quadruped Robots: Experimental Validation Over Challenging Terrain.__](https://iit-dlslab.github.io/papers/fahmi19ral.pdf) <br>
 Shamel Fahmi, Carlos Mastalli, Michele Focchi and Claudio Semini <br>
