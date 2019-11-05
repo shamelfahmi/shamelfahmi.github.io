@@ -17,13 +17,21 @@ To this end, we propose a novel soft terrain adaptation algorithm called **STANC
 **STANCE** can adapt online to any type of terrain (stiff or soft) without pre-tuning. As a result, HyQ was capable of adapting its locomotion strategy and remain contact consistent. **STANCE** allows HyQ to traverse multiple terrains with different compliances and to transition between them. 
 
 ## Selected publication(s): 
-> [__STANCE: Locomotion Adaptation over Soft Terrain.__](https://arxiv.org/pdf/1904.12306.pdf) <br>
-S. Fahmi, M. Focchi, A. Radulescu, G. Fink, V. Barasuol and C. Semini <br>
-preprint, Arxiv, 2019
+S. Fahmi, M. Focchi, A. Radulescu, G. Fink, V. Barasuol, and C. Semini, "[__STANCE: Locomotion Adaptation over Soft Terrain__](https://iit-dlslab.github.io/papers/fahmi19tro.pdf)," IEEE Transactions on Robotics (T-RO), Oct. 2019.
 
-## Contact: 
-Contact: Shamel Fahmi and Michele Focchi
-
+## Cite as:
+```
+{% raw %}
+@Article{Fahmi2019TRO,
+  Title                    = {{STANCE}: Locomotion Adaptation over Soft Terrain},
+  Author                   = {S. {Fahmi} and M. {Focchi} and A. {Radulescu} 
+                           and G. {Fink} and V. {Barasuol} and C. {Semini}},
+  Journal                  = {{IEEE} Trans. Robot. ({T-RO})},
+  Year                     = {2019},
+  Month                    = {Oct.},
+  Pages                    = {1--15},
+}
+{% endraw %}
+```
 ## Media:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rINRnicv7_I?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rINRnicv7_I?autoplay=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -10,7 +10,7 @@ mathjax: "true"
 ## Research Papers
 ### 2019
 
-> [__STANCE: Locomotion Adaptation over Soft Terrain.__](https://arxiv.org/pdf/1904.12306.pdf) <br>
+> [__STANCE: Locomotion Adaptation over Soft Terrain.__](https://iit-dlslab.github.io/papers/fahmi19tro.pdf) <br>
 S. Fahmi, M. Focchi, A. Radulescu, G. Fink, V. Barasuol and C. Semini <br>
 preprint, Arxiv, 2019
 

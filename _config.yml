@@ -33,8 +33,9 @@ analytics:
 # Site Author
 author:
   name   : "Shamel Fahmi"
-  avatar : /assets/images/my_pic.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio    : "\"Mozart, Beethoven, and Chopin never died. They simply became their music.\" - Dr. Robert Ford"
+  avatar : /assets/images/shamel.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio    : ""
+  #bio    : "\"Mozart, Beethoven, and Chopin never died. They simply became their music.\" - Dr. Robert Ford"
   links:
     - label: "DLS lab"
       icon: "fas fa-fw fa-link"

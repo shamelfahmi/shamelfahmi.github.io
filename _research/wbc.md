@@ -29,4 +29,4 @@ Shamel Fahmi and Michele Focchi
 
 ## Media:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lg3V_juoE1w?autoplay=1&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lg3V_juoE1w?autoplay=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
