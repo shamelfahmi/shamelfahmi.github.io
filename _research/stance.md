@@ -3,7 +3,7 @@ title: "**STANCE**: Locomotion Adaptation over Soft Terrain"
 collection: research
 ---
 
-<img src="/assets/images/stance.png"
+<img src="https://drive.google.com/uc?export=view&id=1W0sSnRJhZ7LXs6ecy9WKYxFmLCT57rio"
      alt="Markdown Monster icon"
      />
 
@@ -15,6 +15,9 @@ However, most of **WBC** frameworks fail to generalize beyond rigid terrains. Le
 To this end, we propose a novel soft terrain adaptation algorithm called **STANCE**: **S**oft **T**errain **A**daptation a**n**d **C**ompliance **E**stimation. **STANCE** consists of a **WBC** that exploits the knowledge of the terrain to generate an optimal solution that is contact consistent and an online terrain compliance estimator that provides the **WBC** with terrain knowledge. 
 
 **STANCE** can adapt online to any type of terrain (stiff or soft) without pre-tuning. As a result, HyQ was capable of adapting its locomotion strategy and remain contact consistent. **STANCE** allows HyQ to traverse multiple terrains with different compliances and to transition between them. 
+
+## Slides
+<iframe src="//slides.com/shamelfahmi/deck-6c1d45/embed" width="100%" height="600" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Selected publication(s): 
 S. Fahmi, M. Focchi, A. Radulescu, G. Fink, V. Barasuol, and C. Semini, "[__STANCE: Locomotion Adaptation over Soft Terrain__](https://iit-dlslab.github.io/papers/fahmi19tro.pdf)," IEEE Transactions on Robotics (T-RO), Oct. 2019.
@@ -30,6 +33,7 @@ S. Fahmi, M. Focchi, A. Radulescu, G. Fink, V. Barasuol, and C. Semini, "[__STAN
   Year                     = {2019},
   Month                    = {Oct.},
   Pages                    = {1--15},
+  doi                      = {10.1109/TRO.2019.2954670},
 }
 {% endraw %}
 ```

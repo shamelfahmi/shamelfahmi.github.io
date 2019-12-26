@@ -3,7 +3,7 @@ title: "Whole-body Control for Quadruped Robots"
 collection: research
 ---
 
-<img src="/assets/images/wbc.png"
+<img src="https://drive.google.com/uc?export=view&id=1R_OJuz8FwT9SYesOWamXTLR5WdYxyOyK"
      alt="Markdown Monster icon"
      />
 

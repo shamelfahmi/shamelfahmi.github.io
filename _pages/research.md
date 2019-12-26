@@ -10,7 +10,7 @@ For more information, please click "[read more]()" for more information about ev
 
 ## Locomotion Adaptation over Soft Terrain
 
-<img src="/assets/images/stance_thumbnail.png"
+<img src="https://drive.google.com/uc?export=view&id=1-7f3gSp9QAZz29e6_FyG6AZiK2j45AUX"
      alt="Markdown Monster icon"
      style="float: right; width: 400px; margin-left: 40px;
      margin-top: 40px;" />
@@ -23,7 +23,7 @@ Whole-body Control (WBC) can achieve multiple locomotion tasks while respecting 
 ---
 ## Whole-body Control for Quadruped Robots
 
-<img src="/assets/images/wbc_thumbnail.png"
+<img src="https://drive.google.com/uc?export=view&id=18ZZsFxJ7FwmcdtZoqrNScVPozXZoc6I2"
      alt="Markdown Monster icon"
      style="float: right; width: 300px; margin-left: 50px;
      margin-top: 10px;" />
@@ -34,3 +34,6 @@ In dynamic locomotion, it is essential to consider the robot’s dynamics, actua
 [read more]({% link _research/wbc.md %})
 
 ---
+<!--
+https://drive.google.com/uc?export=view&id=
+-->
