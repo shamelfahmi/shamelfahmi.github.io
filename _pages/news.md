@@ -16,10 +16,15 @@ header:
   For more information, visit this [link](https://iit-dlslab.github.io/internship-positions/soft_terrain_passivity.pdf) for my own topic or this [link](https://dls.iit.it/open-positions/bsc-msc-phd) for open positions at the DLS lab. 
 -->
 
-- 01 November 2019 :collision: <br>
+- :collision: 14 September 2020  :collision: <br>
+ STANCE has been selected as a finalist for two main IEEE-RAS awards:
+[the IEEE RAS Italian Chapter Young Author Best Paper Award 2020](http://www.i-ras.it/node/129)
+, and the [IEEE RAS Technical Committee on Model-Based Optimization for Robotics Best Paper Award 2020](https://www.ieee-ras.org/model-based-optimization-for-robotics/362-news/news-tc-on-model-based-optimization-for-robotics/1694-2019-tc-on-model-based-optimization-for-robotics-best-paper-award)!
+For more information, see the [STANCE blog]({% link _research/stance.md %}) :wink: !
+
+- 01 November 2019  <br>
 **STANCE: Locomotion Adaptation over Soft Terrain**
 is now accepted at the IEEE Transactions on Robotics. 
-For more information, see the [STANCE blog]({% link _research/stance.md %}) :wink: !
 
 - 08 July 2019 <br>
 I managed to compile my thoughts on RSS'19. Go read my blog and ask me lot's of questions
