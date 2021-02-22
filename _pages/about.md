@@ -7,6 +7,9 @@ header:
 Please feel free to navigate through the site to find out more about me.
 
 
+<img src="../../assets/pdfs/resume.svg"/>
+<br>
+
 ## Me in a Nutshell
 
 I'm a doctoral researcher at the [Dynamic Legged Systems](dls.iit.it) (DLS) lab. 
