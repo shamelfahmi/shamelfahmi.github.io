@@ -4,19 +4,13 @@ permalink: /news/
 header:
 ---
 
-<!--
-- 01 Jun 2019 <br>
-  **I'm going to RSS** <br>
-  I will be attending RSS 2019 in Freiburg, Germany. Hope to meet you all there. 
+- :collision: 01 February 2021  :collision: <br>
+My publication titled: 
+"On State Estimation for Legged Locomotion of Soft Terrain"
+is now published at IEEE Sensors Letters.
+Check the preprint [here](https://arxiv.org/pdf/2101.02279.pdf).
 
-- 20 May 2019 <br>
-  **I'm looking for Students!** <br>
-  I am looking for master students (for an internship or thesis) to work with me
-  at the DLS lab on Whole Body Control for Legged Robots. 
-  For more information, visit this [link](https://iit-dlslab.github.io/internship-positions/soft_terrain_passivity.pdf) for my own topic or this [link](https://dls.iit.it/open-positions/bsc-msc-phd) for open positions at the DLS lab. 
--->
-
-- :collision: 14 September 2020  :collision: <br>
+- 14 September 2020 <br>
  STANCE has been selected as a finalist for two main IEEE-RAS awards:
 [the IEEE RAS Italian Chapter Young Author Best Paper Award 2020](http://www.i-ras.it/node/129)
 , and the [IEEE RAS Technical Committee on Model-Based Optimization for Robotics Best Paper Award 2020](https://www.ieee-ras.org/model-based-optimization-for-robotics/362-news/news-tc-on-model-based-optimization-for-robotics/1694-2019-tc-on-model-based-optimization-for-robotics-best-paper-award)!
