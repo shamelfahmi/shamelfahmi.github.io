@@ -7,6 +7,31 @@ classes: wide
 mathjax: "true"
 ---
 
+<!--
+<details>
+  <summary>BibTeX source</summary>
+  
+```
+{% raw %}
+@Article{Fahmi2019TRO,
+  Title                    = {{STANCE}: Locomotion Adaptation over Soft Terrain},
+  Author                   = {S. {Fahmi} and M. {Focchi} and A. {Radulescu} 
+                           and G. {Fink} and V. {Barasuol} and C. {Semini}},
+  Journal                  = {{IEEE} Trans. Robot. ({T-RO})},
+  Year                     = {2019},
+  Month                    = {Oct.},
+  Pages                    = {1--15},
+  doi                      = {10.1109/TRO.2019.2954670},
+}
+{% endraw %}
+ ```
+</details>
+
+-->
+
+
+### The full BibTeX citation can be found [here]({% link _research/my_publications.bib %}).
+
 ## Peer-reviewed Publications
 
 ### 2021
