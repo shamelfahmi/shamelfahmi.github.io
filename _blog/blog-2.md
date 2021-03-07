@@ -36,19 +36,18 @@ The conference had 272 paper submissions and 85 accepted papers. It had 5 spotli
 As verbally mentioned by A. Bicchi, the received papers were 40% more than last year. Yet, the conference managed to keep the acceptance rate around 30%. Other statistics that were shown in the closing presentation are attached below.
 
 <center>
-<img width="560"
-src="/assets/images/1.jpg" alt="Markdown Monster icon"/>
-</center>
-<br>
-<center>
-<img width="560"
-src="/assets/images/2.jpg" alt="Markdown Monster icon"/>
-</center>
-<br>
-<center>
-<img width="560"
-src="/assets/images/3.jpg" alt="Markdown Monster icon"
-/>
+<img src="https://drive.google.com/uc?id=1gacsB8t6dpsvCJ1uIXD33qrmWvKco5oU"
+     alt="Markdown Monster icon"
+     style="height: 300px;
+     margin-bottom: 20px;" />
+<img src="https://drive.google.com/uc?id=1B6v9Aplvku4te64rvJUKUJ_o51Ww7axJ"
+     alt="Markdown Monster icon"
+     style="height: 300px;
+     margin-bottom: 20px;" />
+<img src="https://drive.google.com/uc?id=1ze_H7tOB9V-kjLWHzG0vIQgGjzDfw_ma"
+     alt="Markdown Monster icon"
+     style="height: 300px;
+     margin-bottom: 20px;" />
 <figcaption> 
 Slides from A. Bicchi during the closing presentation. 
 </figcaption> 

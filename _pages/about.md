@@ -1,10 +1,8 @@
 ---
-title: "About"
+title: ""
 permalink: /about/
 header:
 ---
-
-Please feel free to navigate through the site to find out more about me.
 
 ## Short Biographic Sketch
 Shamel Fahmi (S’19) was born in Cairo, Egypt. 

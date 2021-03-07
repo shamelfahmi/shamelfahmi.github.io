@@ -74,7 +74,7 @@ author:
 
 
 # Build settings
-markdown: CommonMark # kramdown
+markdown: kramdown # kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/

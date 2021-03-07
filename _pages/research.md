@@ -28,6 +28,7 @@ Whole-body Control (WBC) can achieve multiple locomotion tasks while respecting 
      style="height: 300px;
      margin-bottom: 20px;" />
 </center>
+
 In dynamic locomotion, it is essential to consider the robot’s dynamics, actuation limits and interaction with the environment. To do so, we exploit optimization techniques in locomotion control to formulate a Whole-Body Control (WBC). WBC is a motion tracking controller capable of achieving multiple locomotion tasks while respecting the robot’s behavior. 
 [read more]({% link _research/wbc.md %})
 

@@ -51,11 +51,13 @@ header:
   <param name="view" value="Fit" />
  </object-->
 ## Egyptianize Yourself!
-<center><iframe src="https://www.penn.museum/cgi/hieroglyphsreal.php" width="100%" height="800"></iframe>
+<center>
+<iframe src="https://www.penn.museum/cgi/hieroglyphsreal.php" width="60%" height="600"></iframe>
 </center>
 
 <br style="clear: both"/><br/>
 ## Twitter ++
-<a class="twitter-timeline" data-height="500" data-dnt="true" data-theme="light" href="https://twitter.com/shamelfahmi">Tweets by shamelfahmi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<center>
+<a class="twitter-timeline" data-width="400" data-height="600" data-dnt="true" data-theme="dark" href="https://twitter.com/shamelfahmi">Tweets by shamelfahmi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
 
