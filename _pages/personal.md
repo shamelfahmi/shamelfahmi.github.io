@@ -4,7 +4,7 @@ permalink: /personal/
 header:
 
 ---
-## My Book Reccomendations
+## Books I Read
 <div>
       <style type="text/css" media="screen">
         .gr_grid_container {

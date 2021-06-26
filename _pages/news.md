@@ -4,7 +4,16 @@ permalink: /news/
 header:
 ---
 
-- :collision: 01 February 2021  :collision: <br>
+- :collision: 04 June 2021  :collision: <br>
+Our 5th ICRA 2021 Workshop on Legged Robots was a success!
+You can find the recorded talks [here](https://www.youtube.com/watch?v=XP6zJYfjAOk&list=PLY45TGWcpM7yXzVnjf96OD8gUX8VCIid3). 
+For more information, visit our [website](http://www.leggedrobots.org/).
+
+- 01 May 2021<br>
+I am proud to say that I graduated and finished my PhD! Currently I am working as a PostDoc at the Dynamic Legged Systems (DLS) lab of IIT.
+
+
+- 01 February 2021<br>
 My publication titled: 
 "On State Estimation for Legged Locomotion of Soft Terrain"
 is now published at IEEE Sensors Letters.
@@ -15,6 +24,9 @@ Check the preprint [here](https://arxiv.org/pdf/2101.02279.pdf).
 [the IEEE RAS Italian Chapter Young Author Best Paper Award 2020](http://www.i-ras.it/node/129)
 , and the [IEEE RAS Technical Committee on Model-Based Optimization for Robotics Best Paper Award 2020](https://www.ieee-ras.org/model-based-optimization-for-robotics/362-news/news-tc-on-model-based-optimization-for-robotics/1694-2019-tc-on-model-based-optimization-for-robotics-best-paper-award)!
 For more information, see the [STANCE blog]({% link _research/stance.md %}) :wink: !
+
+- 01 February 2020 <br>
+I was interviewed at IIT’s [Researchers without Borders](https://opentalk.iit.it/ricercatori-senza-frontiere-egitto/]) series.
 
 - 01 November 2019  <br>
 **STANCE: Locomotion Adaptation over Soft Terrain**

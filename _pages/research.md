@@ -5,7 +5,7 @@ header:
 classes: wide
 mathjax: "true"
 ---
-This is my research blog. Here, I breifly mention my current research interests. 
+This is my research blog. Here, I briefly mention my current research interests. 
 For more information, please click "[read more]()" for more information about every topic.
 
 ## Locomotion Adaptation over Soft Terrain
