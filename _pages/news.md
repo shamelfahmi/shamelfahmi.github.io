@@ -4,7 +4,12 @@ permalink: /news/
 header:
 ---
 
-- :collision: 04 June 2021  :collision: <br>
+- :collision: 01 August 2021  :collision: <br>
+I gave at a talk at the [Reddit Robotics Showcase](https://redditrobotics.com)!
+You can find my talk [here](https://www.youtube.com/watch?v=HLFfAnheun8)
+and the slides of my talk [here](https://slides.com/shamelfahmi/r-robotics/fullscreen).
+
+- 04 June 2021<br>
 Our 5th ICRA 2021 Workshop on Legged Robots was a success!
 You can find the recorded talks [here](https://www.youtube.com/watch?v=XP6zJYfjAOk&list=PLY45TGWcpM7yXzVnjf96OD8gUX8VCIid3). 
 For more information, visit our [website](http://www.leggedrobots.org/).
