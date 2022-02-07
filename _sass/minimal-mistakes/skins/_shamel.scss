@@ -9,10 +9,16 @@ $background-color: #5D5E63 !default;
 $text-color: #FFFFFF !default;
 $primary-color: #8BC3FF !default;
 */
-
+/* Colors in v2 - Ilef */
+/* 
 $background-color: #1B1B1B !default;
 $text-color: #E5D4C0 !default;
 $primary-color: #79B2B2 !default;
+*/
+$background-color: #1B1B1B !default;
+$text-color: #E5D4C0 !default;
+$primary-color: #79B2B2 !default;
+
 $border-color: mix(#fff, $background-color, 20%) !default;
 $code-background-color: mix(#000, $background-color, 15%) !default;
 $code-background-color-dark: mix(#000, $background-color, 20%) !default;

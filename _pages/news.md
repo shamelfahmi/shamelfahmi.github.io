@@ -4,7 +4,11 @@ permalink: /news/
 header:
 ---
 
-- :collision: 01 August 2021  :collision: <br>
+- :collision: 01 November 2021  :collision: <br>
+I recently joined the [Biomimetic Robotics lab](https://biomimetics.mit.edu/) as a postdoc.
+
+
+- 01 August 2021 <br>
 I gave at a talk at the [Reddit Robotics Showcase](https://redditrobotics.com)!
 You can find my talk [here](https://www.youtube.com/watch?v=HLFfAnheun8)
 and the slides of my talk [here](https://slides.com/shamelfahmi/r-robotics/fullscreen).

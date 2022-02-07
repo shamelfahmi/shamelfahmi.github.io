@@ -5,10 +5,26 @@ header:
 classes: wide
 mathjax: "true"
 ---
-This is my research blog. Here, I briefly mention my current research interests. 
-For more information, please click "[read more]()" for more information about every topic.
+These are some pointers to my current research interests. 
+Click "[read more]()" for more information on every topic.
 
-## Locomotion Adaptation over Soft Terrain
+## ViTAL: Vision-Based Terrain-Aware Locomotion for Legged Robots (:collision:coming soon:collision:)
+<center>
+<img src="https://drive.google.com/uc?id=1Xe_jZ8zpLTfhVGVhx7LN7HX7YkZgpeH8"
+     alt="Markdown Monster icon"
+     style="height: 220px;
+     margin-bottom: 20px;" />
+</center>
+
+Common strategies in vision-based planning for legged robots separate locomotion planning into foothold selection and pose adaptation.
+Current pose adaptation strategies optimize the robot’s body pose relative to given footholds. 
+If these footholds are not reached, the robot may end up in a state with no reachable safe footholds. 
+To solve this, we present a Vision-Based Terrain-Aware Locomotion (ViTAL) strategy.
+ViTAL has novel pose adaptation and foothold selection algorithms. 
+ViTAL introduces a different paradigm in pose adaptation that does not optimize the body pose relative to given footholds, but the body pose that maximizes the chances of the legs in reaching safe footholds.
+ViTAL plans footholds and poses based on skills that characterize the capabilities of the robot and its legs, and the robot’s terrain-awareness. 
+
+## Locomotion Adaptation for Legged Robots over Soft Terrain
 
 <center>
 <img src="https://drive.google.com/uc?id=1VOqm5zE6TSEIM_lsqS6ZJ5j4lnE6u5PY"
@@ -21,7 +37,7 @@ Whole-body Control (WBC) can achieve multiple locomotion tasks while respecting 
 [read more]({% link _research/stance.md %})
 
 
-## Whole-body Control for Quadruped Robots
+## Whole-Body Control for Legged Robots
 <center>
 <img src="https://drive.google.com/uc?id=1ARu9dOQ2Ti7sFnmTq8ZEWV3JYeBysF1o"
      alt="Markdown Monster icon"
@@ -29,7 +45,7 @@ Whole-body Control (WBC) can achieve multiple locomotion tasks while respecting 
      margin-bottom: 20px;" />
 </center>
 
-In dynamic locomotion, it is essential to consider the robot’s dynamics, actuation limits and interaction with the environment. To do so, we exploit optimization techniques in locomotion control to formulate a Whole-Body Control (WBC). WBC is a motion tracking controller capable of achieving multiple locomotion tasks while respecting the robot’s behavior. 
+For dynamic locomotion, it is essential to reason about the robot’s dynamics, actuation limits and interaction with the environment. To do so, we exploit optimization techniques in locomotion control to formulate a Whole-Body Control (WBC) framework. WBC is a motion tracking controller capable of achieving multiple locomotion tasks while respecting the robot’s behavior. 
 [read more]({% link _research/wbc.md %})
 
 ---

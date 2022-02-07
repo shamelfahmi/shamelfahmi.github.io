@@ -76,17 +76,6 @@ IEEE Robotics and Automation Letters (RA-L), 2019
 
 
 
----
-<br>
-# Outreach:
-
-- You can pretty much find most of what I am doing on this website.
-- For more information about the DLS lab, we dedicated a web page for all our [ICRA outreach](https://dls.iit.it/icra).
-- For the latest [highlights of our work on HyQ Real](https://www.youtube.com/watch?v=TqHh0AGm-D4&t=20s).
-- How about the [DLS lab's Twitter](https://twitter.com/iitDLSLab)?
-
-
-
 <!--
 How can quadrupeds walk over soft terrain?
 We present STANCE which stands for Soft Terrain Adaptation and Compliance Estimation. 

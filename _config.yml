@@ -16,7 +16,7 @@
 title: Shamel Fahmi
 email:
 url: https://shamelfahmi.com
-description: This is Shamel Fahmi's personal website # this means to ignore newlines until "baseurl:"
+description: Shamel Fahmi's personal website # this means to ignore newlines until "baseurl:"
 twitter_username: shamelfahmi
 github_username: shamelfahmi
 minimal_mistakes_skin: shamel
@@ -37,33 +37,33 @@ author:
   bio    : ""
   #bio    : "\"Mozart, Beethoven, and Chopin never died. They simply became their music.\" - Dr. Robert Ford"
   links:
-    - label: "DLS lab"
+    - label: "Biomimetic Robotics Lab"
       icon: "fas fa-fw fa-link"
-      url: "https://dls.iit.it/"
+      url: "https://biomimetics.mit.edu/"
 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/shamelfahmi"
 
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/shamelfahmi"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/shamelfahmi"
 
     - label: "Scholar"
       icon: ""
-      url: "https://scholar.google.nl/citations?user=bvK2p6gAAAAJ&hl=en&authuser=2"
+      url: "http://scholar.shamelfahmi.com/"
 
     - label: "linked-in"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/shamelfahmi"
 
-    - label: "research-gate"
-      icon: "fab fa-researchgate"
-      url: "https://www.researchgate.net/profile/Shamel_Fahmi"
+    #- label: "research-gate"
+    #  icon: "fab fa-researchgate"
+    #  url: "https://www.researchgate.net/profile/Shamel_Fahmi"
 
-    - label: "shamel.fahmi@iit.it"
+    - label: "a.shamel.fahmi-at-gmail.com"
       icon: "far fa-envelope"
-      url: "mailto:shamel.fahmi@iit.it"
+      url: ""
 
     - label: "Medium"
       icon: "fab fa-medium-m"
