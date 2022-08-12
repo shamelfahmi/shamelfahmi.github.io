@@ -69,6 +69,10 @@ International Journal of Medical Robotics and Computer Assisted Surgery (IJMRCAS
 
 
 ## Dissertations
+> [__On Terrain-Aware Locomotion for Legged Robots.__](https://iit-dlslab.github.io/papers/sfahmi_thesis.pdf) <br>
+Shamel Fahmi <br>
+Dynamic Legged Systems (DLS) lab, Italian Institute of Technology (IIT), 2021.
+
 > __Respiratory motion estimation of the liver with abdominal motion as a surrogate: a supervised learning approach.__ <br>
 Shamel Fahmi <br>
 Robotics and Mechatronics (RaM) Lab, University of Twente, 2017
