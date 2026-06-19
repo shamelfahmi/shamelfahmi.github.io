@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: Shamel Fahmi # the website title (if blank, full name will be used instead)
-first_name: Shamel 
+first_name: Shamel
 last_name: Fahmi
 email: sfahmi@rai-inst.com
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -49,7 +49,6 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-
 
 bluesky_url: # your bluesky URL
 # github_username: shamelfahmi # your GitHub user name
@@ -168,7 +167,6 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 scholar:
-
   last_name: [Fahmi]
   first_name: [Fahmi, Shamel]
 

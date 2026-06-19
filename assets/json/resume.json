@@ -28,33 +28,22 @@
       "startDate": "2021",
       "endDate": "2023",
       "score": "",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
-  "awards": [
-  ],
-  "certificates": [
-  ],
-  "publications": [
-  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
   "skills": [
     {
       "name": "Programming and Software",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "C/C++", 
-        "Python", 
-        "IsaacSim"
-      ]
+      "keywords": ["C/C++", "Python", "IsaacSim"]
     },
     {
       "name": "Experience with Robots",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "RAI: UMV Mini",
-        "MIT: Mini-Cheetah and MIT Humanoid"
-      ]
+      "keywords": ["RAI: UMV Mini", "MIT: Mini-Cheetah and MIT Humanoid"]
     }
   ],
   // "languages": [
@@ -93,6 +82,5 @@
   //     "reference": "MIT."
   //   }
   // ],
-  "projects": [
-  ]
+  "projects": []
 }
