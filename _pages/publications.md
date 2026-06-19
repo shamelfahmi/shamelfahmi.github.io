@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description:
+description: scroll down for papers, patents, and theses
 nav: true
 nav_order: 2
 ---
