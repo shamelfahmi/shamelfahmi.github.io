@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: about
 permalink: /
 subtitle: Robotics, Artificial Intelligence, Reinforcement Learning, Machine Learning
