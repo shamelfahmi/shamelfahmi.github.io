@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "Shamel Fahmi",
+    "label": "",
+    "image": "",
+    "email": "sfahmi (at) rai-inst.com",
+    "phone": "",
+    "url": "https://shamelfahmi.com/",
+    "summary": "Research scientist at the RAI institute.",
+    "location": {},
+    "profiles": [{}]
+  },
+  "work": [
+    {
+      "name": "Robotics and AI Institute",
+      "position": "Reserach scientist",
+      "url": "https://rai-inst.com/",
+      "startDate": "2023",
+      "endDate": "Present"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT, Cambridge, MA, USA",
+      "url": "https://biomimetics.mit.edu/",
+      "area": "",
+      "studyType": "Biomimetic Robotics Lab",
+      "startDate": "2021",
+      "endDate": "2023",
+      "score": "",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+  ],
+  "certificates": [
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Programming and Software",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "C/C++", 
+        "Python", 
+        "IsaacSim"
+      ]
+    },
+    {
+      "name": "Experience with Robots",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "RAI: UMV Mini",
+        "MIT: Mini-Cheetah and MIT Humanoid"
+      ]
+    }
+  ],
+  // "languages": [
+  //   {
+  //     "language": "Korean",
+  //     "fluency": "Native speaker"
+  //   },
+  //   {
+  //     "language": "English",
+  //     "fluency": "Fluent",
+  //     "icon": ""
+  //   }
+  // ],
+  // "interests": [
+  //   {
+  //     "name": "Legged Robotics",
+  //     "icon": "fa-solid fa-tag",
+  //     "keywords": [
+  //       "Model-based Optimal Control",
+  //       "Reinforcement Learning"
+  //     ]
+  //   },
+  //   {
+  //     "name": "Charater Animation",
+  //     "icon": "fa-solid fa-tag",
+  //     "keywords": [
+  //       "Physics-based Charater Animation",
+  //       "Data-driven Character Animation"
+  //     ]
+  //   }
+  // ],
+  // "references": [
+  //   {
+  //     "name": "Prof. Dr. Sangbae Kim",
+  //     "icon": "fa-solid fa-thumbtack",
+  //     "reference": "MIT."
+  //   }
+  // ],
+  "projects": [
+  ]
+}
